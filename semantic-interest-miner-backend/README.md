@@ -49,7 +49,7 @@ bcdedit /set hypervisorlaunchtype auto
 **Step 3 Formatting file**
 Open `start.sh` file using [Notepad++](https://notepad-plus-plus.org/), click edit tab, choose EOL conversion then select UNIX/OSX Format.
 
-**Step 3 Using docker-compose to run the app**
+**Step 4 Using docker-compose to run the app**
 If you are running the app for the first time, run following command to build the and run:
 
 ```
