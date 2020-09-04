@@ -14,6 +14,7 @@ Please put the model file in the root directory of this folder.
 **Step 1 Install Docker**
 
 Install Docker from https://docs.docker.com/get-docker/
+
 Please make sure you have at least 10GB free space in your disk.
 
 **Step 2 Using docker-compose to run the app**
@@ -26,6 +27,7 @@ docker-compose --compatibility up --build
 for subsequent runs:
 
 to start the server, you can run `docker-compose up`
+
 to stop the server, you can run `docker-compose down`
 
 **Step 3 Check if the backend already start successfully**
@@ -65,6 +67,7 @@ docker-compose --compatibility up --build
 for subsequent runs:
 
 to start the server, you can run `docker-compose up`
+
 to stop the server, you can run `docker-compose down`
 
 **Step 5 Check if the backend already start successfully**
