@@ -32,7 +32,7 @@ to stop the server, you can run `docker-compose down`
 
 **Step 3 Check if the backend already start successfully**
 
-For checking that the backend part is working, tape the following link in the browser: `127.0.0.1:8000`, it should take 10 to 15 min to load (because of the Glove model). You can also check the API docs via `127.0.0.1:8000/docs`.
+For checking that the backend part is working, type the following link in the browser: `127.0.0.1:8000`, it should take 10 to 15 min to load (because of the Glove model). You can also check the API docs via `127.0.0.1:8000/docs`.
 
 ## Steps to run application using Docker for Windows users:
 
@@ -72,5 +72,5 @@ to stop the server, you can run `docker-compose down`
 
 **Step 5 Check if the backend already start successfully**
 
-For checking that the backend part is working, tape the following link in the browser: `127.0.0.1:8000`, it should take 10 to 15 min to load (because of the Glove model). You can also check the API docs via `127.0.0.1:8000/docs`.
+For checking that the backend part is working, type the following link in the browser: `127.0.0.1:8000`, it should take 10 to 15 min to load (because of the Glove model). You can also check the API docs via `127.0.0.1:8000/docs`.
 
