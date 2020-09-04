@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom ignores
+node_modules
+package-lock.json
+.DS_Store
