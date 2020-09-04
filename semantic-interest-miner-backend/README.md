@@ -4,9 +4,9 @@ This is the backend of the Semantic Interest Miner web application.
 
 ## Before running the application:
 
-Please download word embedding model[(GloVe)](http://nlp.stanford.edu/data/glove.6B.zip) and convert it into word2vec format, refer [this link](https://radimrehurek.com/gensim/scripts/glove2word2vec.html).
+Please download word embedding model[(GloVe)](https://drive.google.com/file/d/1FfQgEjR6q1NyFsD_-kOdBCHMXB2QmNxN/view?usp=sharing) 
 
-Please put the converted file in the root directory of this folder.
+Please put the model file in the root directory of this folder.
 
 
 
